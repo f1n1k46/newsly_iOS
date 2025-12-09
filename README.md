@@ -36,7 +36,7 @@ Newsly_iOS/
 
 ## Screenshots📱
 ![Home](Assets/Screenshots/home.png)
-![News](Assets/Screenshotsn/news.png)
+![News](Assets/Screenshots/news.png)
 ![Categories](Assets/Screenshots/categories.png)
 ![Search](Assets/Screenshots/search.png)
 
